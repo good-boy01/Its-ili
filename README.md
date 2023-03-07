@@ -63,7 +63,7 @@
     Operating Systems
   </h1>
   
-  <a href="https://www.microsoft.com/software-download/windows11">
+  <a href="https://www.microsoft.com/software-download/windows10">
     <img src="https://img.shields.io/badge/Windows%2011-%230079d5.svg?style=for-the-badge&logo=Windows%2011&logoColor=white" />
   </a>
 </div>
