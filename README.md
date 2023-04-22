@@ -13,7 +13,9 @@
   <a href="mailto: ikh.ilia01@gmail.com">  
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
-  
+  <a href="https://t.me/Its_ili_kh">
+    <img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" />
+  </a>
   <h1> Skills </h1>
   
   <a href="https://developer.mozilla.org/en-US/docs/Web/CSS/">
